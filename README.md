@@ -91,9 +91,7 @@ Tipo de tasa (1. Vencida / 2. Anticipada): 1
 Ingrese el valor del abono: 500000
 Ingrese el mes del abono: 6
 ```
-Resultado:
-- Cuota mensual: $943,562.40  
-- Interés total: $1,322,748.80  
+Resultado:  
 - Saldo final: $0.00
 
 ## Fórmulas Implementadas en Python
